@@ -1,0 +1,61 @@
+{
+  "role": "business_analyst",
+  "critical_skills": {
+    "analysis_methods": {
+      "weight": 0.25,
+      "keywords": [
+        "requirements gathering", "business requirements", "functional requirements",
+        "gap analysis", "process mapping", "stakeholder analysis", "impact analysis",
+        "root cause analysis", "feasibility analysis", "cost-benefit analysis"
+      ]
+    },
+    "documentation": {
+      "weight": 0.2,
+      "keywords": [
+        "BRD", "FRD", "business requirements document", "functional requirements document",
+        "user stories", "use cases", "process flows", "workflow diagrams",
+        "acceptance criteria", "technical specifications"
+      ]
+    },
+    "methodologies": {
+      "weight": 0.15,
+      "keywords": [
+        "Agile", "Scrum", "Waterfall", "Lean", "Six Sigma", "Kanban",
+        "SAFe", "Prince2", "BABOK", "business process improvement"
+      ]
+    },
+    "tools": {
+      "weight": 0.15,
+      "keywords": [
+        "JIRA", "Confluence", "Visio", "Lucidchart", "Excel", "PowerPoint",
+        "Tableau", "Power BI", "SharePoint", "Teams", "Slack"
+      ]
+    },
+    "soft_skills": {
+      "weight": 0.15,
+      "keywords": [
+        "stakeholder management", "communication", "facilitation", "negotiation",
+        "problem solving", "critical thinking", "analytical thinking",
+        "project management", "change management"
+      ]
+    },
+    "domain_knowledge": {
+      "weight": 0.1,
+      "keywords": [
+        "financial services", "healthcare", "retail", "manufacturing", "fintech",
+        "banking", "insurance", "e-commerce", "supply chain", "CRM", "ERP"
+      ]
+    }
+  },
+  "experience_keywords": [
+    "business analysis", "requirements analysis", "process improvement",
+    "stakeholder engagement", "project management", "system analysis",
+    "workflow optimization", "change management", "business process mapping",
+    "user acceptance testing", "vendor management"
+  ],
+  "impact_metrics": [
+    "process efficiency", "cost reduction", "time savings", "user satisfaction",
+    "system adoption", "ROI improvement", "operational excellence",
+    "productivity increase", "error reduction", "compliance improvement"
+  ]
+}

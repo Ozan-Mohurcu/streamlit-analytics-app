@@ -1,0 +1,63 @@
+{
+  "role": "data_analyst",
+  "critical_skills": {
+    "programming": {
+      "weight": 0.2,
+      "core_keywords": ["SQL", "Python", "R"],
+      "bonus_keywords": ["VBA", "DAX", "M", "PowerShell", "SAS"],
+      "minimum_required": 2,
+      "category_importance": "high"
+    },
+    "analytics_tools": {
+      "weight": 0.25,
+      "core_keywords": ["Excel", "Power BI", "Tableau"],
+      "bonus_keywords": ["Looker", "QlikView", "Spotfire", "Google Analytics", "Adobe Analytics", "Qlik Sense"],
+      "minimum_required": 2,
+      "category_importance": "high"
+    },
+    "databases": {
+      "weight": 0.15,
+      "core_keywords": ["SQL", "MySQL", "PostgreSQL"],
+      "bonus_keywords": ["Oracle", "SQL Server", "MongoDB", "Redshift", "BigQuery", "Snowflake", "Teradata"],
+      "minimum_required": 1,
+      "category_importance": "medium"
+    },
+    "statistical_analysis": {
+      "weight": 0.15,
+      "core_keywords": ["statistical analysis", "data analysis"],
+      "bonus_keywords": ["hypothesis testing", "regression analysis", "A/B testing", "descriptive statistics", "inferential statistics", "ANOVA", "correlation analysis", "trend analysis"],
+      "minimum_required": 1,
+      "category_importance": "medium"
+    },
+    "data_processing": {
+      "weight": 0.15,
+      "core_keywords": ["data cleaning", "ETL"],
+      "bonus_keywords": ["data transformation", "data validation", "data pipeline", "data warehouse", "data mart", "SSIS", "Alteryx"],
+      "minimum_required": 1,
+      "category_importance": "medium"
+    },
+    "business_intelligence": {
+      "weight": 0.1,
+      "core_keywords": ["dashboard", "reporting"],
+      "bonus_keywords": ["business intelligence", "KPI", "metrics", "data visualization", "business metrics", "performance indicators"],
+      "minimum_required": 1,
+      "category_importance": "low"
+    }
+  },
+  "experience_keywords": [
+    "data analysis", "business intelligence", "reporting", "dashboard development",
+    "KPI tracking", "trend analysis", "performance metrics", "data insights",
+    "data visualization", "business reporting", "ad hoc analysis", "data mining"
+  ],
+  "impact_metrics": [
+    "reporting efficiency", "cost savings", "revenue increase", "process improvement",
+    "decision support", "accuracy improvement", "time savings", "automation",
+    "data quality improvement", "insight generation"
+  ],
+  "scoring_rules": {
+    "core_weight": 0.7,
+    "bonus_weight": 0.3,
+    "minimum_penalty": 0.5,
+    "excellence_bonus": 1.2
+  }
+}

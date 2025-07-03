@@ -1,0 +1,55 @@
+{
+  "role": "data_scientist",
+  "critical_skills": {
+    "programming": {
+      "weight": 0.25,
+      "keywords": [
+        "Python", "R", "SQL", "Scala", "Java", "Julia", "C++", "MATLAB"
+      ]
+    },
+    "ml_frameworks": {
+      "weight": 0.2,
+      "keywords": [
+        "scikit-learn", "TensorFlow", "PyTorch", "Keras", "XGBoost", 
+        "LightGBM", "CatBoost", "Spark MLlib"
+      ]
+    },
+    "data_tools": {
+      "weight": 0.15,
+      "keywords": [
+        "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", 
+        "Jupyter", "Git", "Docker"
+      ]
+    },
+    "cloud_platforms": {
+      "weight": 0.15,
+      "keywords": [
+        "AWS", "Azure", "GCP", "SageMaker", "Azure ML", "Vertex AI",
+        "Databricks", "Snowflake"
+      ]
+    },
+    "statistics": {
+      "weight": 0.15,
+      "keywords": [
+        "hypothesis testing", "A/B testing", "statistical modeling",
+        "regression analysis", "time series", "Bayesian statistics"
+      ]
+    },
+    "domain_expertise": {
+      "weight": 0.1,
+      "keywords": [
+        "machine learning", "deep learning", "NLP", "computer vision",
+        "recommendation systems", "predictive modeling", "feature engineering"
+      ]
+    }
+  },
+  "experience_keywords": [
+    "machine learning", "predictive modeling", "data mining", 
+    "feature engineering", "model deployment", "algorithm development",
+    "statistical analysis", "data pipeline", "ETL", "model validation"
+  ],
+  "impact_metrics": [
+    "accuracy", "precision", "recall", "F1-score", "ROI", "cost reduction",
+    "performance improvement", "automation", "efficiency", "revenue increase"
+  ]
+}
