@@ -7,7 +7,7 @@
   [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   
-  **🚀 [Uygulamayı Dene - Streamlit App](https://your-streamlit-app-link.com)**
+  **🚀 [Canlı Demo - Streamlit App](https://ats-skor-hesaplama.streamlit.app/)**
 </div>
 
 ---
