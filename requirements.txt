@@ -1,8 +1,8 @@
-streamlit==1.28.0
-pandas==1.5.0
-numpy==1.24.0
-nltk==3.8
-plotly==5.15.0
-matplotlib==3.6.0
-python-docx==0.8.11
-PyPDF2==3.0.0
+streamlit
+pandas
+numpy
+nltk
+plotly
+matplotlib
+python-docx
+PyPDF2
