@@ -1,3 +1,29 @@
+import streamlit as st
+import os
+import sys
+
+# NLTK fix for Streamlit Cloud
+import nltk
+import ssl
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+# Download NLTK data
+@st.cache_resource
+def download_nltk_data():
+    try:
+        nltk.download('punkt', quiet=True)
+        nltk.download('stopwords', quiet=True)
+        return True
+    except:
+        return False
+
+download_nltk_data()
+
 # app.py - Türkçe ATS CV Scorer
 import streamlit as st
 import pandas as pd
