@@ -155,7 +155,7 @@ streamlit run app.py
 ---
 
 <div align="center">
-  <h3>🎯 <a href="https://your-streamlit-app-link.com">Şimdi Dene!</a></h3>
+  <h3>🎯 <a href="(https://ats-skor-hesaplama.streamlit.app/)">Şimdi Dene!</a></h3>
   <p><em>CV'nizi ATS sistemlerine optimize edin</em></p>
   
   ⭐ **Beğendiyseniz yıldız verin!** ⭐
